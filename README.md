@@ -19,3 +19,6 @@ For datasets: you have to add their path manually to your code.
 7. For COVID-19 datasets with DNN: DNN_Covid19.ipynb
 8. COVID-19 dataset: https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset
 
+
+# Contact:
+Ismat Jarin: ijarin@umich.edu
