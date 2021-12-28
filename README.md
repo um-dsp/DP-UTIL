@@ -1,6 +1,6 @@
 # DP-UTIL: A Comprehensive Utility Analysis of Differential Privacy in Machine Learning
 
-This repository contains the source code accompanying our [ACM CODASPY'22](http://www.codaspy.org/2022/) paper [DP-UTIL: A Comprehensive Utility Analysis of Differential Privacy in Machine Learning]( https://arxiv.org/abs/2108.13930).
+This repository contains the source code accompanying our [ACM CODASPY'22](http://www.codaspy.org/2022/) paper [DP-UTIL: A Comprehensive Utility Analysis of Differential Privacy in Machine Learning](http://arxiv.org/abs/2112.12998).
 
 For Objective Perturbation, we used IBM Differential Privacy library
 
