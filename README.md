@@ -13,18 +13,18 @@ This repository contains the source code accompanying our [ACM CODASPY'22](http:
 
 ## LendingClub Loan:
 
-1. Dataset: https://www.kaggle.com/wordsforthewise/lending-club
-2. Logistic Regression: LR_Loan.ipynb
-3. DNN: DNN_Loan.ipynb
+* Dataset: https://www.kaggle.com/wordsforthewise/lending-club
+* Logistic Regression: LR_Loan.ipynb
+* DNN: DNN_Loan.ipynb
 
 ## CIFAR-10:
-1. Logistic Regression: LR_Cifar10.ipynb
-2. DNN: DNN_Cifar10.ipynb
+* Logistic Regression: LR_Cifar10.ipynb
+* DNN: DNN_Cifar10.ipynb
 
 ## COVID-19:
-1. Dataset: https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset
-2. Logistic Regression: LR_Covid19.ipynb
-3. DNN: DNN_Covid19.ipynb
+* Dataset: https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset
+* Logistic Regression: LR_Covid19.ipynb
+* DNN: DNN_Covid19.ipynb
 
 
 ## Contact:
